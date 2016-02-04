@@ -1,6 +1,6 @@
 {
   "name": "kui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "kui",
   "main": "index.js",
   "scripts": {
