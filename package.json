@@ -1,0 +1,23 @@
+{
+  "name": "kui",
+  "version": "0.0.0",
+  "description": "kui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landy2014/kui.git"
+  },
+  "keywords": [
+    "kui",
+    "kinhom"
+  ],
+  "author": "linyandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landy2014/kui/issues"
+  },
+  "homepage": "https://github.com/landy2014/kui#readme"
+}
